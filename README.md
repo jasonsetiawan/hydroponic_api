@@ -7,3 +7,4 @@ Version : 1.0.0
     - Needs pixel counting
     - The value of pixel will be uploaded to mysql through update.py (/Database/upadate.py)
   
+Version : 1.0.1
